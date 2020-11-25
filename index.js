@@ -14,7 +14,7 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = '⚔️JSMBOT⚔️'; 
-const instagram = 'https://www.instagram.com/jedi_team._/'; 
+const instagram = 'https://www.instagram.com/jedi_team'; 
 const telegram = 'https://t.me/Allrds'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = 'kaga ada';
