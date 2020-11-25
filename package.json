@@ -1,6 +1,6 @@
 {
-  "name": "CptyMBots",
-  "version": "1.0.0",
+  "name": "JSMBOT",
+  "version": "1.0",
   "description": "bot wa simple",
   "main": "index.js",
   "directories": {
@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AriiqDesign/CptyMBots"
+    "url": "git+https://github.com/JS-B-OT/CptyMBotss"
   },
   "keywords": [
     "k"
   ],
-  "author": "Ahmad Ariiq Khoironi",
+  "author": "Usman Ramadhan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AriiqDesign/CptyMBots/issues"
+    "url": "https://github.com/JS-B-OT/CptyMBotss/issues"
   },
-  "homepage": "https://github.com/AriiqDesign/CptyMBots#readme"
+  "homepage": "https://github.com/JS-B-OT/CptyMBotss#readme"
 }
