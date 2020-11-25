@@ -1,4 +1,4 @@
-## 𝙲𝚙𝚝𝚢𝙼𝙱𝚘𝚝𝚜 ☂︎
+## JSMBOT☂︎
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
